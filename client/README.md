@@ -46,5 +46,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-The list of available breed id is in this link:
+The list of available breed id is in this link :
 https://api.thecatapi.com/v1/breeds
+
+Enter four letter to search, more than 4 letter is unavailable.
